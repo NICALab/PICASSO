@@ -1,6 +1,7 @@
 ## PICASSO allows ultra-multiplexed fluorescence imaging of spatially overlapping proteins without reference spectra measurements
 Matlab code for blind spectral unmixing
-![picasso_main](https://github.com/NICALab/PICASSO/assets/18739637/8795e5e3-e301-4b4f-80e3-06aec126e975)
+![picasso_main](https://github.com/NICALab/PICASSO/assets/18739637/035dc3c8-c6dc-4ff7-80c8-b76a27327afd)
+
 
 
 ## Citation
