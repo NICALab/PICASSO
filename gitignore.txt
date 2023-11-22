@@ -1,0 +1,5 @@
+# cache files
+*.pyc
+*.pyo
+.vscode
+*.tmp
